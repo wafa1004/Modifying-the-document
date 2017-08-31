@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Insertion methods</title>
+    <title>insertBefore()</title>
 </head>
 <body>
     <ol id="list">
@@ -12,13 +12,12 @@
     </ol>
 
     <script>
-
         let newLi = document.createElement('li');
-        newLi.innerHTML = 'Hello, world!';
+        newLi.innerHTML = 'Hello!';
 
-        //appending node as the last child
-        //list is the id of the tag ordered list.
-        list.appendChild(newLi);
+        //inserts node before nextSibling into parentElem
+        list.insertBefore(newLi, list.children[2]);
     </script>
+
 </body>
 </html>
