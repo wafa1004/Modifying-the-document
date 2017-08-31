@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>insertAdjacentHTML</title>
+</head>
+
+<style>
+    @import "show-a-message.css";
+</style>
+<body>
+    <script>
+        document.body.insertAdjacentHTML("afterbegin",
+            `<div class="alert alert-success">
+            <strong>Hi there!</strong> You've read an important message.
+            </div>`)
+    </script>
+</body>
+</html>
