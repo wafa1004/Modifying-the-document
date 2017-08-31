@@ -1,0 +1,26 @@
+<!--cloning an existing node allows us to modify it-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloning nodes</title>
+</head>
+<style> @import "show-a-message.css"; </style>
+
+
+<body>
+
+    <div class="alert" id="div">
+        <strong>Hi there!</strong> You've read an important message.
+    </div>
+
+    <script>
+        let div2 = div.cloneNode(true); //clone the message
+        div2.querySelector('strong').innerHTML = 'Bye there'; //change the clone
+
+            //she the clone after existing div.
+        div.after(div2)
+    </script>
+</body>
+</html>

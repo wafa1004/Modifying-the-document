@@ -69,16 +69,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insertAdjacentHTML.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="insertAdjacentHTML.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/insertAdjacentHTML.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding>
                 <marker date="1504146407000" expanded="true" signature="285:372" ph="..." />
                 <marker date="1504146407000" expanded="true" signature="285:377" ph="..." />
                 <marker date="1504146407000" expanded="true" signature="285:378" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cloning-nodes.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cloning-nodes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,6 +148,7 @@
         <option value="$PROJECT_DIR$/prepend-append-before-after.html" />
         <option value="$PROJECT_DIR$/insertAdjacentHTML-Text-Element.html" />
         <option value="$PROJECT_DIR$/insertAdjacentHTML.html" />
+        <option value="$PROJECT_DIR$/Cloning-nodes.html" />
       </list>
     </option>
   </component>
@@ -153,7 +164,9 @@
     <option name="width" value="576" />
     <option name="height" value="722" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -202,26 +215,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.insertAdjacentHTML.html">
-    <configuration name="Insertion methods.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/Insertion methods.html" />
+  <component name="RunManager" selected="JavaScript Debug.Cloning-nodes.html">
+    <configuration name="Cloning-nodes.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/Cloning-nodes.html" />
     <configuration name="insertAdjacentHTML-Text-Element.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/insertAdjacentHTML-Text-Element.html" />
     <configuration name="insertAdjacentHTML.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/insertAdjacentHTML.html" />
     <configuration name="insertBefore().html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/insertBefore().html" />
     <configuration name="prepend-append-before-after.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/prepend-append-before-after.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Insertion methods.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.insertBefore().html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.prepend-append-before-after.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.insertAdjacentHTML-Text-Element.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.insertAdjacentHTML.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.insertBefore().html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.prepend-append-before-after.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.insertAdjacentHTML-Text-Element.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.insertAdjacentHTML.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Cloning-nodes.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.insertAdjacentHTML.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.insertAdjacentHTML-Text-Element.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.prepend-append-before-after.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.insertBefore().html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Insertion methods.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Cloning-nodes.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.insertAdjacentHTML.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.insertAdjacentHTML-Text-Element.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.prepend-append-before-after.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.insertBefore().html" />
       </list>
     </recent_temporary>
   </component>
@@ -235,18 +248,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504123229114</updated>
-      <workItem from="1504123232190" duration="7466000" />
+      <workItem from="1504123232190" duration="8765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7466000" />
+    <option name="totallyTimeSpent" value="8765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="704" y="23" width="576" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08108108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -341,13 +354,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/insertAdjacentHTML.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding>
             <marker date="1504146407000" expanded="true" signature="285:372" ph="..." />
             <marker date="1504146407000" expanded="true" signature="285:377" ph="..." />
             <marker date="1504146407000" expanded="true" signature="285:378" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cloning-nodes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
