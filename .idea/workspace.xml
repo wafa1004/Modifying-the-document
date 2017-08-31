@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2b26693a-5990-4cdf-b5dc-451750efb4eb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Insertion methods.html" afterPath="$PROJECT_DIR$/Insertion methods.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insertBefore().html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="insertBefore().html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/insertBefore().html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="270">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prepend-append-before-after.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prepend-append-before-after.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,6 +111,7 @@
         <option value="$PROJECT_DIR$/creating-an-element.html" />
         <option value="$PROJECT_DIR$/Insertion methods.html" />
         <option value="$PROJECT_DIR$/insertBefore().html" />
+        <option value="$PROJECT_DIR$/prepend-append-before-after.html" />
       </list>
     </option>
   </component>
@@ -166,23 +176,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.insertBefore().html">
+  <component name="RunManager" selected="JavaScript Debug.prepend-append-before-after.html">
     <configuration name="Insertion methods.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/Insertion methods.html" />
     <configuration name="creating-an-element.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/creating-an-element.html" />
     <configuration name="insertBefore().html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/insertBefore().html" />
+    <configuration name="prepend-append-before-after.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/prepend-append-before-after.html" />
     <configuration name="show-a-message.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Modifying the document/show-a-message.html" />
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.show-a-message.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.creating-an-element.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Insertion methods.html" />
       <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.insertBefore().html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.prepend-append-before-after.html" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.insertBefore().html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Insertion methods.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.creating-an-element.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.show-a-message.html" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.prepend-append-before-after.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.insertBefore().html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Insertion methods.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.creating-an-element.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.show-a-message.html" />
       </list>
     </recent_temporary>
   </component>
@@ -196,12 +209,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504123229114</updated>
-      <workItem from="1504123232190" duration="5323000" />
+      <workItem from="1504123232190" duration="6523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5323000" />
+    <option name="totallyTimeSpent" value="6523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="694" y="23" width="586" height="722" extended-state="0" />
@@ -278,8 +291,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/insertBefore().html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="270">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepend-append-before-after.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
