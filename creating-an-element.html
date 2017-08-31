@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <title>creating an element</title>
 </head>
+<style>
+    @import "show-a-message.css";
+</style>
 <body>
 
     <script>
@@ -11,7 +14,14 @@
         //creating a DOM node:
         let div = document.createElement('div');
         div.className = "alert alert-success";
+
+        //innerHTML sets or return the HTML content of an element.
         div.innerHTML = "<strong>Hi there!</strong> You've read an important message.";
+
+
+        //appendChild() appends a node as the last child of a node.
+        document.body.appendChild(div);
+
     </script>
 
 </body>
